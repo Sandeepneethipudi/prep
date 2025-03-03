@@ -1,0 +1,11 @@
+# Ignore all files
+*
+
+# Allow only the src directory
+!src/
+!src/**
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
